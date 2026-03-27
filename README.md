@@ -18,7 +18,7 @@ A simple Python-based terminal application to calculate product costs and genera
 
 ## 📋 How to Use
 
-(![architrcture Diagram](Diagramaenblanco.png))
+(![architrcture Diagram](Diagrama_en_blanco.png))
 
 1. **Download or Clone** the script file (e.g., `main.py`).
 2. **Open your terminal** or command prompt.
